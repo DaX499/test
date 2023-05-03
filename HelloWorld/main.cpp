@@ -1,2 +1,2 @@
-// this is in main
+// a new result
 #include "hello.h"
